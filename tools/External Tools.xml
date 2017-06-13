@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="PHP CS Fixer PSR-2" description="PHP CS Fixer PSR-2 http://qiita.com/k-holy/items/4e70e1868d4c1799ad4a" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="&quot;C:\Users\tejima-t\AppData\Roaming\Composer\vendor\bin\php-cs-fixer.bat&quot;" />
+      <option name="PARAMETERS" value="--rules=@PSR2 --verbose fix &quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

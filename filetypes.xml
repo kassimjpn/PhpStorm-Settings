@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="dev-8087" type="PHP" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="Smarty" />
+    </extensionMap>
+  </component>
+</application>
